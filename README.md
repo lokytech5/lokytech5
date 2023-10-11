@@ -1,4 +1,4 @@
-<img src="/images/DSC_0846.jpg" width="150" height="150" style="border-radius:50%;">
+<img src="/images/DSC_0846.jpg" width="200" height="200" style="border-radius:20%;">
 
 ### 🌟 Greetings! I'm [lokosman] - Backend Engineer & Tech Enthusiast.
 
